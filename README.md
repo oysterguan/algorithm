@@ -1,0 +1,2 @@
+# algorithm
+something for study
